@@ -20,3 +20,4 @@ nohup python3 main.py &
 ## Known issue
 
 The bot will completely mute the user who has previous restriction by other admins after passing their CAPTCHA. If the previous restriction was a partial mute (that the user could send basic text while be banned from some types of messages), this could be undesirable.
+ 
